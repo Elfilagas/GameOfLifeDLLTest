@@ -1,0 +1,6 @@
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeEngine\bin\Debug\GameOfLifeEngine.dll
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeEngine\bin\Debug\GameOfLifeEngine.pdb
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeEngine\obj\Debug\GameOfLifeEngine.csproj.AssemblyReference.cache
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeEngine\obj\Debug\GameOfLifeEngine.csproj.CoreCompileInputs.cache
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeEngine\obj\Debug\GameOfLifeEngine.dll
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeEngine\obj\Debug\GameOfLifeEngine.pdb

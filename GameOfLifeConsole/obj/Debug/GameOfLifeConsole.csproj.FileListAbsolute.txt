@@ -1,0 +1,10 @@
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.exe.config
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.exe
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.pdb
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.csproj.AssemblyReference.cache
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.csproj.CoreCompileInputs.cache
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.exe
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.pdb
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeEngine.dll
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\bin\Debug\GameOfLifeEngine.pdb
+C:\Users\kapustin_nn\source\repos\GameOfLife\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.csproj.CopyComplete
